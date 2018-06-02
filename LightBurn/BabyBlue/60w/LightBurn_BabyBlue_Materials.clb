@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnLibrary>
+    <Material name="Acrylic">
+        <Entry Thickness="6.3500" Desc="1/4 inch Cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <minPower Value="70"/>
+                <maxPower Value="70"/>
+                <speed Value="12"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="Engrave">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <minPower Value="70"/>
+                <maxPower Value="70"/>
+                <speed Value="300"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Anodized Aluminum">
+        <Entry Thickness="-1.0000" Desc="Engrave">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <minPower Value="30"/>
+                <maxPower Value="30"/>
+                <speed Value="325"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Balsa Wood">
+        <Entry Thickness="3.1700" Desc="1/8 Inch Cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <minPower Value="65"/>
+                <maxPower Value="65"/>
+                <speed Value="45"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Bass Wood">
+        <Entry Thickness="3.1700" Desc="1/8 Inch Cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <minPower Value="65"/>
+                <maxPower Value="65"/>
+                <speed Value="15"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Birch Plywood">
+        <Entry Thickness="3.1700" Desc="1/8 Inch Cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <minPower Value="68"/>
+                <maxPower Value="68"/>
+                <speed Value="12"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="5.05" Desc="1/4 Inch Cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <minPower Value="85"/>
+                <maxPower Value="85"/>
+                <speed Value="10"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="3"/>
+                <zPerPass Value="1.5"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Brick">
+        <Entry Thickness="-1.0000" Desc="Engrave">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <minPower Value="80"/>
+                <maxPower Value="80"/>
+                <speed Value="25"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Cermark">
+        <Entry Thickness="-1.0000" Desc="Engrave">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <minPower Value="55"/>
+                <maxPower Value="55"/>
+                <speed Value="300"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Glass">
+        <Entry Thickness="-1.0000" Desc="Glass Engraving">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <minPower Value="12"/>
+                <maxPower Value="12"/>
+                <speed Value="350"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Granite">
+        <Entry Thickness="-1.0000" Desc="Engrave">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <minPower Value="85"/>
+                <maxPower Value="85"/>
+                <speed Value="120"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.085"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Leather">
+        <Entry Thickness="-1.0000" Desc="Engrave">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <minPower Value="50"/>
+                <maxPower Value="50"/>
+                <speed Value="325"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.085"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="1.5800" Desc="1/16 Cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <minPower Value="85"/>
+                <maxPower Value="85"/>
+                <speed Value="10"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.085"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Mirror (Black)">
+        <Entry Thickness="-1.0000" Desc="Engrave">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <minPower Value="50"/>
+                <maxPower Value="50"/>
+                <speed Value="325"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Plywood RC Aircraft">
+        <Entry Thickness="4.7600" Desc="3/16 Inch Cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <minPower Value="65"/>
+                <maxPower Value="65"/>
+                <speed Value="35"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Powdered Coated Metal">
+        <Entry Thickness="-1.0000" Desc="Engrave">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <minPower Value="30"/>
+                <maxPower Value="30"/>
+                <speed Value="325"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Romark - Multi Color">
+        <Entry Thickness="-1.0000" Desc="Engrave">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <minPower Value="15"/>
+                <maxPower Value="15"/>
+                <speed Value="325"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Styrofoam - Closed Cell (Drinking cup)">
+        <Entry Thickness="-1.0000" Desc="Cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <minPower Value="15"/>
+                <maxPower Value="15"/>
+                <speed Value="45"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Wood">
+        <Entry Thickness="-1.0000" Desc="Wood Engraving">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <minPower Value="18"/>
+                <maxPower Value="18"/>
+                <speed Value="350"/>
+                <kerf Value="0"/>
+                <zOffset Value="0"/>
+                <startDelay Value="0"/>
+                <endDelay Value="0"/>
+                <throughPower Value="0"/>
+                <enableCutThrough Value="0"/>
+                <priority Value="0"/>
+                <frequency Value="20000"/>
+                <doOutput Value="1"/>
+                <hide Value="0"/>
+                <runBlower Value="1"/>
+                <numPasses Value="1"/>
+                <zPerPass Value="0"/>
+                <scanOpt Value="mergeAll"/>
+                <bidir Value="1"/>
+                <crossHatch Value="0"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="2.5"/>
+                <floodFill Value="0"/>
+                <interval Value="0.1"/>
+                <angle Value="0"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+</LightBurnLibrary>
