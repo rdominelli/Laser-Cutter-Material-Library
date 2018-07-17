@@ -36,8 +36,8 @@
         <Entry Thickness="-1.0000" Desc="Engrave">
             <CutSetting type="Scan">
                 <index Value="0"/>
-                <minPower Value="70"/>
-                <maxPower Value="70"/>
+                <minPower Value="20"/>
+                <maxPower Value="20"/>
                 <speed Value="300"/>
                 <kerf Value="0"/>
                 <zOffset Value="0"/>
@@ -53,15 +53,15 @@
                 <numPasses Value="1"/>
                 <zPerPass Value="0"/>
                 <perforate Value="0"/>
-                <perfLen Value="0"/>
-                <perfSkip Value="0"/>
+                <perfLen Value="0.1"/>
+                <perfSkip Value="0.1"/>
                 <scanOpt Value="mergeAll"/>
                 <bidir Value="1"/>
                 <crossHatch Value="0"/>
                 <overscan Value="0"/>
                 <overscanPercent Value="2.5"/>
                 <floodFill Value="0"/>
-                <interval Value="0.1"/>
+                <interval Value="0.05"/>
                 <angle Value="0"/>
             </CutSetting>
         </Entry>
